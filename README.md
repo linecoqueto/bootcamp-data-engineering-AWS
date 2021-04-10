@@ -8,6 +8,7 @@
    3. Converter o formato dos dados
    4. Ler os dados em repouso baseado em um meta-store
 
+------------------------------------------------------------
 
 BOOTCAMP DATA ENGINEER DE HOJE:
 
