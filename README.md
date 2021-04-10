@@ -10,7 +10,7 @@
 
 ------------------------------------------------------------
 
-BOOTCAMP DATA ENGINEER DE HOJE:
+BOOTCAMP DATA ENGINEER:
 
 Data Prep/Transform Data
 - Glue, 
