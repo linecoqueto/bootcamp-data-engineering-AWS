@@ -9,5 +9,31 @@
    4. Ler os dados em repouso baseado em um meta-store
 
 
-  
-    
+BOOTCAMP DATA ENGINEER DE HOJE:
+
+Data Prep/Transform Data
+- Glue, 
+- Athena, 
+
+Queue Service
+- SQS
+
+Ingestion
+- kinesis
+
+Formato de armazenamento de dados
+- Avro
+- Parquet
+
+Micro Services
+- Serverless lambda 
+
+Armazenamento
+- S3
+
+Assessment Governance
+- IAM
+
+Monitoring Logs
+- CloudWatch
+   
