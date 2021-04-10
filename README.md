@@ -13,8 +13,8 @@
 BOOTCAMP DATA ENGINEER:
 
 Data Prep/Transform Data
-- Glue, 
-- Athena, 
+- Glue
+- Athena 
 
 Queue Service
 - SQS
